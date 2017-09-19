@@ -4,6 +4,7 @@ puts Hola
 
 
 #ng build -angular
+#https://medium.com/@ervib/deploy-angular-4-app-with-express-to-heroku-6113146915ca heruko
 
 
 git push --set-upstream origin master
